@@ -1,0 +1,131 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 1
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\Proyectos\Proy Traspasos\Proyecto\Instalador
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\WINDOWS\system32\mscomctl.ocx=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+D:\Proyectos\Proy Traspasos\ejecutable\Traspasos.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\vb6es.dll=Yes
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=Yes
+C:\WINDOWS\system32\mscomctl.ocx=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\WINDOWS\system32\MSADODC.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\STDFTES.DLL=Yes
+C:\WINDOWS\system32\ADODCES.DLL=Yes
+C:\WINDOWS\system32\MSDATLST.OCX=Yes
+C:\WINDOWS\system32\DATLSES.DLL=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\WINDOWS\system32\MSDBRPTR.DLL=Yes
+C:\WINDOWS\system32\DBRPRES.DLL=Yes
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=Yes
+C:\WINDOWS\system32\COMCT232.OCX=Yes
+C:\WINDOWS\system32\CMCT2ES.DLL=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\Proyectos\Proy Traspasos\ejecutable\Traspasos.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\vb6es.dll=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\System\ado\msado20.tlb=$(WinSysPath)
+C:\WINDOWS\system32\mscomctl.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSADODC.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\STDFTES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\ADODCES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATLST.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATLSES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDBRPTR.DLL=$(WinSysPath)
+C:\WINDOWS\system32\DBRPRES.DLL=$(WinSysPath)
+C:\Archivos de programa\Archivos comunes\designer\MSDERUN.DLL=$(CommonFiles)\designer
+C:\WINDOWS\system32\COMCT232.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCT2ES.DLL=$(WinSysPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\Proyectos\Proy Traspasos\ejecutable\Traspasos.exe=Yes
+D:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Traspasos
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Traspasos
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Traspasos]
+Icon1=Traspasos.exe
+Title1=Traspasos
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\Proyectos\Proy Traspasos\Proyecto\Instalador
+ProjectFolder=D:\Proyectos\Proy Traspasos\Proyecto
+ServerSideCab=
+File1=D:\Proyectos\Proy Traspasos\Proyecto\Instalador\setup.exe
+File2=D:\Proyectos\Proy Traspasos\Proyecto\Instalador\Setup.Lst
+File3=D:\Proyectos\Proy Traspasos\Proyecto\Instalador\Traspasos.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

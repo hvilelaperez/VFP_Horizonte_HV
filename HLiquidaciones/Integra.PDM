@@ -1,0 +1,750 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 4
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=Integra-Liquidacion
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=Integra-Liquidacion
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|Integra-Liquidacion]
+Icon1=IntegraLiq.exe
+Title1=Integra-Liquidacion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\IntegraLiq.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall
+
+[Package|Paquete de instalación estándar 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 2|Files Found]
+
+[Package|Paquete de instalación estándar 2|Files Released]
+
+[Package|Paquete de instalación estándar 2|Missing Dependency Information]
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+
+[Package|Paquete de instalación estándar 2|Files Added]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=
+
+[Package|Paquete de instalación estándar 2|Files Removed]
+
+[Package|Paquete de instalación estándar 2|Files In Project]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=Yes
+
+[Package|Paquete de instalación estándar 2|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Install Locations]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=$(AppPath)
+
+[Package|Paquete de instalación estándar 2|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=No
+
+[Package|Paquete de instalación estándar 2|Distribution]
+Type=single
+Size=
+Title=Generacion de Archivo Integra
+
+[Package|Paquete de instalación estándar 2|IconGroups]
+Group0=Generacion de Archivo Integra
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 2|Generacion de Archivo Integra]
+Icon1=IntegraLiq.exe
+Title1=Generacion de Archivo Integra
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 2|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\INTEGRA\Install - GenInstall\IntegraLiq.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 3|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Instaladores
+
+[Package|Paquete de instalación estándar 3|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 3|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 3|Files Found]
+
+[Package|Paquete de instalación estándar 3|Files Released]
+SSCSDK32.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Paquete de instalación estándar 3|Missing Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 3|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Paquete de instalación estándar 3|Files Added]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=
+
+[Package|Paquete de instalación estándar 3|Files Removed]
+
+[Package|Paquete de instalación estándar 3|Files In Project]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKES.DLL=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=Yes
+
+[Package|Paquete de instalación estándar 3|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 3|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 3|Install Locations]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=$(AppPath)
+
+[Package|Paquete de instalación estándar 3|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=No
+
+[Package|Paquete de instalación estándar 3|Distribution]
+Type=single
+Size=
+Title=Integra-Liquidacion
+
+[Package|Paquete de instalación estándar 3|IconGroups]
+Group0=Integra-Liquidacion
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 3|Integra-Liquidacion]
+Icon1=IntegraLiq.exe
+Title1=Integra-Liquidacion
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 3|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Instaladores
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Instaladores\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Instaladores\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Instaladores\IntegraLiq.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 4|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Install_Liquidacion
+
+[Package|Paquete de instalación estándar 4|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 4|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 4|Files Found]
+
+[Package|Paquete de instalación estándar 4|Files Released]
+SSCSDK32.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Paquete de instalación estándar 4|Missing Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 4|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Paquete de instalación estándar 4|Files Added]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Rcargo.rpt=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempoca.dbf=
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=
+
+[Package|Paquete de instalación estándar 4|Files Removed]
+
+[Package|Paquete de instalación estándar 4|Files In Project]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKES.DLL=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Rcargo.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempoca.dbf=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=Yes
+
+[Package|Paquete de instalación estándar 4|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 4|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 4|Install Locations]
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Rcargo.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempoca.dbf=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=$(AppPath)
+
+[Package|Paquete de instalación estándar 4|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\IntegraLiq.exe=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\dyclass.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\flow.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Integra.ini=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Rcargo.rpt=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\Renvio.rpt=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempoca.dbf=No
+D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq\tempo.dbf=No
+
+[Package|Paquete de instalación estándar 4|Distribution]
+Type=single
+Size=
+Title=Integra-Liquidaciones
+
+[Package|Paquete de instalación estándar 4|IconGroups]
+Group0=Integra-Liquidaciones
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 4|Integra-Liquidaciones]
+Icon1=IntegraLiq.exe
+Title1=Integra-Liquidaciones
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 4|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Install_Liquidacion
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\IntegraLiq
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Install_Liquidacion\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Install_Liquidacion\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\INTEGRA\Generar archivo Liqui\Install_Liquidacion\IntegraLiq.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz

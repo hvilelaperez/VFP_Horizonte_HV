@@ -1,0 +1,7 @@
+Form1 = 44, 58, 825, 675, , 22, 29, 803, 646, C
+Mod_Integra = 0, 0, 0, 0, C
+frmprincipal = 95, 78, 876, 669, , 154, 203, 935, 794, C
+Flow_Frmpanel = 0, 0, 0, 0, C, 154, 203, 911, 798, C
+Flow_Frmarchivo = 0, 0, 0, 0, C, 110, 145, 867, 740, C
+Flow_Frmconfiguracion = 0, 0, 0, 0, C, 132, 174, 889, 769, C
+FrmValidacion = 88, 116, 857, 711, , 12, 41, 781, 636, C

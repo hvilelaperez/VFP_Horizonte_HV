@@ -1,0 +1,492 @@
+[Root]
+Most Recent Package=Paquete de instalación estándar 2
+
+
+[Package|Paquete de instalación estándar 1|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\INSTALL
+
+[Package|Paquete de instalación estándar 1|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 1|Files Found]
+
+[Package|Paquete de instalación estándar 1|Files Released]
+SSCSDK32.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Paquete de instalación estándar 1|Missing Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 1|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Paquete de instalación estándar 1|Files Added]
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Horizonte.ini=
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\flow.ini=
+
+[Package|Paquete de instalación estándar 1|Files Removed]
+
+[Package|Paquete de instalación estándar 1|Files In Project]
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\COMCTL32.OCX=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKES.DLL=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Horizonte.ini=Yes
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\flow.ini=Yes
+
+[Package|Paquete de instalación estándar 1|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 1|Install Locations]
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\COMCTL32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Horizonte.ini=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\flow.ini=$(AppPath)
+
+[Package|Paquete de instalación estándar 1|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Horizonte.ini=No
+D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones\flow.ini=No
+
+[Package|Paquete de instalación estándar 1|Distribution]
+Type=single
+Size=
+Title=HORIZONTE
+
+[Package|Paquete de instalación estándar 1|IconGroups]
+Group0=HORIZONTE
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 1|HORIZONTE]
+Icon1=HorizonteLiquidacion.exe
+Title1=HORIZONTE
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 1|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\INSTALL
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\Horizonte_Liquidaciones
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\INSTALL\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\INSTALL\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\_Liquidacion_Horizonte\INSTALL\HorizonteLiquidacion.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
+
+
+[Package|Paquete de instalación estándar 2|Root]
+SubWizProgID=PDWizard.SetupPkgSubWiz
+BuildFolder=D:\POLYSISTEMAS\Proyectos\_Horizonte\Install
+
+[Package|Paquete de instalación estándar 2|Configure DAO ISAMs]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure DAO ODBC]
+JetWorkspace=
+ODBCDirect=
+
+[Package|Paquete de instalación estándar 2|Files Found]
+
+[Package|Paquete de instalación estándar 2|Files Released]
+SSCSDK32.DLL=
+u25TOTAL.DLL=
+u25STORE.DLL=
+Crystal=
+
+[Package|Paquete de instalación estándar 2|Missing Dependency Information]
+C:\WINDOWS\system32\msstdfmt.dll=
+C:\Program Files\Imaging Professional\Imgthumb.ocx=
+C:\Program Files\Imaging Professional\Imgocr.ocx=
+C:\Program Files\Imaging Professional\Imgscan.ocx=
+C:\Program Files\Imaging Professional\Imgedit.ocx=
+C:\Program Files\Imaging Professional\Imgadmin.ocx=
+C:\WINDOWS\system32\dao360.dll=
+
+[Package|Paquete de instalación estándar 2|Out-of-Date Dependency Information]
+C:\WINDOWS\system32\MSCOMCT2.OCX=
+C:\WINDOWS\system32\MSCOMCTL.OCX=
+C:\WINDOWS\system32\comctl32.ocx=
+C:\WINDOWS\system32\scrrun.dll=
+
+[Package|Paquete de instalación estándar 2|Files Added]
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Renvio.rpt=
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rpticr.rpt=
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rptimg.rpt=
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTincosistencias.rpt=
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTrechazos.rpt=
+
+[Package|Paquete de instalación estándar 2|Files Removed]
+
+[Package|Paquete de instalación estándar 2|Files In Project]
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=Yes
+C:\WINDOWS\system32\msvbvm60.dll=Yes
+C:\WINDOWS\system32\oleaut32.dll=Yes
+C:\WINDOWS\system32\olepro32.dll=Yes
+C:\WINDOWS\system32\asycfilt.dll=Yes
+C:\WINDOWS\system32\stdole2.tlb=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=Yes
+C:\WINDOWS\system32\VB6ES.DLL=Yes
+C:\WINDOWS\system32\scrrun.dll=Yes
+C:\WINDOWS\system32\msvcrt.dll=Yes
+C:\WINDOWS\system32\scrrnes.dll=Yes
+C:\WINDOWS\system32\dao360.dll=Yes
+C:\WINDOWS\system32\comctl32.ocx=Yes
+C:\WINDOWS\system32\CMCTLES.DLL=Yes
+C:\WINDOWS\system32\MSCOMCTL.OCX=Yes
+C:\WINDOWS\system32\MSCMCES.DLL=Yes
+C:\Program Files\Imaging Professional\Imgadmin.ocx=Yes
+C:\Program Files\Imaging Professional\Imgedit.ocx=Yes
+C:\Program Files\Imaging Professional\Imgscan.ocx=Yes
+C:\Program Files\Imaging Professional\Imgocr.ocx=Yes
+C:\Program Files\Imaging Professional\Imgthumb.ocx=Yes
+C:\WINDOWS\system32\MSDATGRD.OCX=Yes
+C:\WINDOWS\system32\msstdfmt.dll=Yes
+C:\WINDOWS\system32\DATGDES.DLL=Yes
+C:\WINDOWS\system32\MSMASK32.OCX=Yes
+C:\WINDOWS\system32\MSMSKES.DLL=Yes
+C:\WINDOWS\system32\crystl32.ocx=Yes
+C:\WINDOWS\system32\crpe32.dll=Yes
+C:\WINDOWS\system32\implode.dll=Yes
+C:\WINDOWS\system32\crpaig32.dll=Yes
+C:\WINDOWS\system32\mfc42.dll=Yes
+C:\WINDOWS\Crystal\crxlat32.dll=Yes
+C:\WINDOWS\Crystal\p2bbde.dll=Yes
+C:\WINDOWS\system32\p2bbnd.dll=Yes
+C:\WINDOWS\system32\p2bdao.dll=Yes
+C:\WINDOWS\Crystal\p2bxbse.dll=Yes
+C:\WINDOWS\system32\p2ctdao.dll=Yes
+C:\WINDOWS\system32\p2irdao.dll=Yes
+C:\WINDOWS\Crystal\p2sifmx.dll=Yes
+C:\WINDOWS\system32\p2smon.dll=Yes
+C:\WINDOWS\system32\p2sodbc.dll=Yes
+C:\WINDOWS\Crystal\p2sora7.dll=Yes
+C:\WINDOWS\Crystal\p2ssql.dll=Yes
+C:\WINDOWS\Crystal\p2ssyb10.dll=Yes
+C:\WINDOWS\Crystal\p2soledb.dll=Yes
+C:\WINDOWS\Crystal\u2ddisk.dll=Yes
+C:\WINDOWS\Crystal\u2dmapi.dll=Yes
+C:\WINDOWS\Crystal\u2dnotes.dll=Yes
+C:\WINDOWS\Crystal\u2dpost.dll=Yes
+C:\WINDOWS\Crystal\u2dvim.dll=Yes
+C:\WINDOWS\Crystal\u2dapp.dll=Yes
+C:\WINDOWS\Crystal\u2fcr.dll=Yes
+C:\WINDOWS\Crystal\u2fhtml.dll=Yes
+C:\WINDOWS\Crystal\u2fodbc.dll=Yes
+C:\WINDOWS\Crystal\u2frec.dll=Yes
+C:\WINDOWS\Crystal\u2frtf.dll=Yes
+C:\WINDOWS\Crystal\u2fsepv.dll=Yes
+C:\WINDOWS\Crystal\u2ftext.dll=Yes
+C:\WINDOWS\Crystal\u2fwks.dll=Yes
+C:\WINDOWS\Crystal\u2fwordw.dll=Yes
+C:\WINDOWS\Crystal\u2fxls.dll=Yes
+C:\WINDOWS\Crystal\u25dts.dll=Yes
+C:\WINDOWS\Crystal\u2l2000.dll=Yes
+C:\WINDOWS\Crystal\u2lbar.dll=Yes
+C:\WINDOWS\Crystal\u2lcom.dll=Yes
+C:\WINDOWS\Crystal\u2ldts.dll=Yes
+C:\WINDOWS\Crystal\u2lsamp1.dll=Yes
+C:\WINDOWS\Crystal\u252000.dll=Yes
+C:\WINDOWS\system32\MSCOMCT2.OCX=Yes
+C:\WINDOWS\system32\MSCC2ES.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=Yes
+C:\WINDOWS\system32\VB6STKIT.DLL=Yes
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Renvio.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rpticr.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rptimg.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTincosistencias.rpt=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTrechazos.rpt=Yes
+
+[Package|Paquete de instalación estándar 2|Configure Registry Files]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Configure Remote Servers]
+Applicable=No
+
+[Package|Paquete de instalación estándar 2|Install Locations]
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=$(AppPath)
+C:\WINDOWS\system32\msvbvm60.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\oleaut32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\olepro32.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\asycfilt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\stdole2.tlb=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\COMCAT.DLL=$(WinSysPathSysFile)
+C:\WINDOWS\system32\VB6ES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\scrrun.dll=$(WinSysPath)
+C:\WINDOWS\system32\msvcrt.dll=$(WinSysPathSysFile)
+C:\WINDOWS\system32\scrrnes.dll=$(WinSysPath)
+C:\WINDOWS\system32\dao360.dll=$(WinSysPath)
+C:\WINDOWS\system32\comctl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\CMCTLES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCTL.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCMCES.DLL=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgadmin.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgedit.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgscan.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgocr.ocx=$(WinSysPath)
+C:\Program Files\Imaging Professional\Imgthumb.ocx=$(WinSysPath)
+C:\WINDOWS\system32\MSDATGRD.OCX=$(WinSysPath)
+C:\WINDOWS\system32\msstdfmt.dll=$(WinSysPath)
+C:\WINDOWS\system32\DATGDES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\MSMASK32.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSMSKES.DLL=$(WinSysPath)
+C:\WINDOWS\system32\crystl32.ocx=$(WinSysPath)
+C:\WINDOWS\system32\crpe32.dll=$(WinSysPath)
+C:\WINDOWS\system32\implode.dll=$(WinSysPath)
+C:\WINDOWS\system32\crpaig32.dll=$(WinSysPath)
+C:\WINDOWS\system32\mfc42.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\crxlat32.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bbde.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bbnd.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2bdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2bxbse.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2ctdao.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2irdao.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sifmx.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2smon.dll=$(WinSysPath)
+C:\WINDOWS\system32\p2sodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2sora7.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssql.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2ssyb10.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\p2soledb.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ddisk.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dmapi.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dnotes.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dpost.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dvim.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2dapp.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fcr.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fhtml.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fodbc.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frec.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2frtf.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fsepv.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ftext.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwks.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fwordw.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2fxls.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u25dts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2l2000.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2lbar.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lcom.dll=$(WinSysPath)
+C:\WINDOWS\Crystal\u2ldts.dll=$(AppPath)
+C:\WINDOWS\Crystal\u2lsamp1.dll=$(AppPath)
+C:\WINDOWS\Crystal\u252000.dll=$(WinSysPath)
+C:\WINDOWS\system32\MSCOMCT2.OCX=$(WinSysPath)
+C:\WINDOWS\system32\MSCC2ES.DLL=$(WinSysPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP.EXE=$(AppPath)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\SETUP1.EXE=$(WinPath)
+C:\WINDOWS\system32\VB6STKIT.DLL=$(WinSysPathSysFile)
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\ST6UNST.EXE=$(WinPath)
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Renvio.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rpticr.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rptimg.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTincosistencias.rpt=$(AppPath)
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTrechazos.rpt=$(AppPath)
+
+[Package|Paquete de instalación estándar 2|Configure Shared Files]
+Applicable=Yes
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\HorizonteLiquidacion.exe=No
+C:\WINDOWS\Crystal\u25dts.dll=No
+C:\WINDOWS\Crystal\u2lbar.dll=No
+C:\WINDOWS\Crystal\u2ldts.dll=No
+C:\WINDOWS\Crystal\u2lsamp1.dll=No
+C:\Archivos de programa\Microsoft Visual Studio\VB98\Wizards\PDWizard\Redist\MDAC_TYP.EXE=No
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Renvio.rpt=No
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rpticr.rpt=No
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\Rptimg.rpt=No
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTincosistencias.rpt=No
+D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones\RpTrechazos.rpt=No
+
+[Package|Paquete de instalación estándar 2|Distribution]
+Type=single
+Size=
+Title=Horizonte
+
+[Package|Paquete de instalación estándar 2|IconGroups]
+Group0=Horizonte
+PrivateGroup0=Verdadero
+Parent0=$(Programs)
+
+[Package|Paquete de instalación estándar 2|Horizonte]
+Icon1=HorizonteLiquidacion.exe
+Title1=Horizonte
+StartIn1=$(AppPath)
+Key1=Icon1
+
+[Package|Paquete de instalación estándar 2|Package]
+PackageFolder=D:\POLYSISTEMAS\Proyectos\_Horizonte\Install
+ProjectFolder=D:\POLYSISTEMAS\Proyectos\_Horizonte\_Liquidacion_Horizonte\Horizonte_Liquidaciones
+ServerSideCab=
+File1=D:\POLYSISTEMAS\Proyectos\_Horizonte\Install\setup.exe
+File2=D:\POLYSISTEMAS\Proyectos\_Horizonte\Install\Setup.Lst
+File3=D:\POLYSISTEMAS\Proyectos\_Horizonte\Install\HorizonteLiquidacion.CAB
+Handler1=PDWizard.FolderDplySubWiz
+Handler2=PDWizard.WebPostDplySubWiz
