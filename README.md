@@ -114,3 +114,4 @@ El sistema sigue un patrón de **dos capas (Client-Server)** con una separación
 **Estrategia recomendada:** *Strangler Fig Pattern*. Reemplazar módulos uno a uno (empezando por Reportes y Consultas, luego Captura) hasta que el monolito VB6 desaparezca por completo.
 < 2018-01-05T16:44:00 --> 
 < 2014-01-01T22:48:00 --> 
+< 2015-02-03T22:47:00 --> 
