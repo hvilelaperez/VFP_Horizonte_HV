@@ -112,3 +112,4 @@ El sistema sigue un patrón de **dos capas (Client-Server)** con una separación
 *   Implementar **OCR (Reconocimiento Óptico de Caracteres)** para automatizar la digitación que hoy es manual, reduciendo el error humano en campos como CUSPP y DNI.
 
 **Estrategia recomendada:** *Strangler Fig Pattern*. Reemplazar módulos uno a uno (empezando por Reportes y Consultas, luego Captura) hasta que el monolito VB6 desaparezca por completo.
+< 2018-01-05T16:44:00 --> 
